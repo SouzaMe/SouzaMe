@@ -1,6 +1,5 @@
 ### Hello, my name is Marciano Souza, I study Front-end development.
 <br>
-<br>
 
 <!--
 **SouzaMe/SouzaMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +7,7 @@
 Here are some ideas to get you started:-->
 - 🔭  I'm currently working as a freelancer in digital development, where I help small businesses create their digital identity.
 - 🌱  I'm currently learning Front-end development.
+- 📫  Doubts, curiosities, information or just chat, you can call me on any social network. 
 <div align="center">
   <a href="https://github.com/SouzaMe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SouzaMe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

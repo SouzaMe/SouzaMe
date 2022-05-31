@@ -1,4 +1,4 @@
-### Hi there I'm Marciano Souza, study Front-end development.
+### Hello, my name is Marciano Souza, I study Front-end development.
 <br>
 <br>
 
@@ -10,8 +10,8 @@ Here are some ideas to get you started:-->
 - 🌱  I'm currently learning Front-end development.
 <div align="center">
   <a href="https://github.com/SouzaMe">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SouzaMe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaMe&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SouzaMe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaMe&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 

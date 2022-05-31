@@ -1,5 +1,5 @@
 <h1 align='center'>
-Olá 🖖 me chamo Marciano Souza 👨‍💻
+Olá 🖖 me chamo Marciano Souza   👨‍💻
   </h1>
 <br>
 
@@ -7,7 +7,7 @@ Olá 🖖 me chamo Marciano Souza 👨‍💻
 **SouzaMe/SouzaMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🔭  I'm currently working as a freelancer in digital development, where I help small businesses create their digital identity.
+- 🔭  I work as a freelancer in development, where I help small businesses build their digital presence.
 - 🌱  I'm currently learning Front-end development.
 - 📫  Doubts, curiosities, information or just chat, you can call me on any social network. 
 <div align="center">

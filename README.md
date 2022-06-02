@@ -17,9 +17,7 @@ Here are some ideas to get you started:-->
 </div>
   <br>
   <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/SouzaMe/SouzaMe"></a> <br>  hipsters e nerds esteve aqui 🙌
-  </p>
-  
+  <a href="#"><img src="https://badges.pufler.dev/visits/SouzaMe/SouzaMe"></a> <br>  hipsters e nerds me visitaram 🙌 
 
   
   ##

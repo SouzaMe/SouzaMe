@@ -7,9 +7,9 @@ Olá  👋  meu nome é Marciano Souza   👨‍💻
 **SouzaMe/SouzaMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🔭  I work as a freelancer in development, where I help small businesses build their digital presence.
-- 🌱  I'm currently learning Front-end development.
-- 📫  Doubts, curiosities, information or just chat, you can call me on any social network. 
+- 🔭 Trabalho como freelancer em desenvolvimento, onde ajudo pequenas empresas a construir sua presença digital.
+- 🌱 Atualmente estou aprendendo desenvolvimento Front-end.
+- 📫 Dúvidas, curiosidades, informações ou apenas chat, pode me chamar em qualquer rede social.
 <div align="center">
   <a href="https://github.com/SouzaMe">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SouzaMe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -18,19 +18,19 @@ Here are some ideas to get you started:-->
 </div>
   <br>
   <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/SouzaMe/SouzaMe"></a> <br>  hipsters e nerds me visitaram 🙌 
-  
+  <a href="#"><img src="https://badges.pufler.dev/visits/SouzaMe/SouzaMe"></a> <br>  hipsters e nerds me visitaram 🙌  
   
  <hr>
-  <h2 align = 'center'>Habilidades</h2>
-    <div style="display: inline_block"> 
-  <p align='center'>    
-  <img align="center" alt="html" height="70" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">   
-      
-  <img align="center" alt="css" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
-      
-  <img align="center" alt="javascript" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">      
- </div>
+  
+<h2 align="center">Habilidades ⚙️</h2>  
+<p align="center" margin= '25px'>
+   
+ <img height="40" src="https://devicons.railway.app/i/javascript.svg">
+    
+ <img height="40" src="https://devicons.railway.app/i/html5.svg">
+    
+ <img height="40" src="https://devicons.railway.app/i/css3.svg">
+</p>
  
  <hr>
  <h2 align= 'center'>Redes</h2>

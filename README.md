@@ -9,7 +9,7 @@ Olá  👋  meu nome é Marciano Souza   👨‍💻
 Here are some ideas to get you started:-->
 
 - 🔭 Trabalho como freelancer em desenvolvimento, onde ajudo pequenas empresas a construir sua presença digital.
-- 🌱 Atualmente estou aprendendo desenvolvimento Front-end.
+- 🌱 Atualmente estou studying desenvolvimento Front-end.
 - 📫 Dúvidas, curiosidades, informações ou apenas chat, pode me chamar em qualquer rede social.
 <div align="center">
   <a href="https://github.com/SouzaMe">

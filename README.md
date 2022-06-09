@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 Trabalho como freelancer em desenvolvimento, onde ajudo pequenas empresas a construir sua presença digital.
 - 🌱 Atualmente estou studying desenvolvimento Front-end.
-- 📫 Dúvidas, curiosidades, informações ou apenas chat, pode me chamar em qualquer rede social.
+- 📫 Dúvidas, curiosidades, informações ou apenas conversation, pode me chamar em qualquer rede social.
 <div align="center">
   <a href="https://github.com/SouzaMe">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SouzaMe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

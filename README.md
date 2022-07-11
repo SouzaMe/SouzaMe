@@ -62,8 +62,7 @@ Here are some ideas to get you started:-->
       <img height="40" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="30" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
   </p>
   
 

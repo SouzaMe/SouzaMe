@@ -1,5 +1,5 @@
 <h1 align='center'>
-Olá  👋  meu nome é Marciano Souza   👨‍💻
+Olá  👋  meu nome é Marciano Souza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
   </h1>
 <br>
 
@@ -22,14 +22,23 @@ Here are some ideas to get you started:-->
   
  <hr>
   
-<h2 align="center">Habilidades ⚙️</h2>  
-<p align="center" margin= '25px'>
-   
- <img height="40" src="https://devicons.railway.app/i/javascript.svg">
-    
- <img height="40" src="https://devicons.railway.app/i/html5.svg">
-    
- <img height="40" src="https://devicons.railway.app/i/css3.svg">
+<h2 align="center> 🎓 Habilidades e Experiências: </h2>
+  
+<p dir="auto">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-deepskyblue?logo=css3&logoColor=white&style=flat"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-mediumspringgreen?style=flat&logo=canva&logoColor=white"/>   
+<img alt="VS Code" src="https://img.shields.io/badge/VSCode-cornflowerblue?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img alt="Atom" src="https://img.shields.io/badge/Atom-springgreen?style=flat&logo=atom&logoColor=white"/>   
+</p>
+<p dir="auto">
+<img alt="#" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white"/>
+<img alt="#" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white"/>
+<img alt="#" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img alt="#" src="https://img.shields.io/badge/Microsoft_Access-fuchsia?style=flat&logo=microsoft-access&logoColor=white"/>
+<img alt="#" src="https://img.shields.io/badge/Microsoft_PowerPoint-orangered?style=flat&logo=microsoft-powerpoint&logoColor=white"/>
+
 </p>
  
  <hr>
@@ -43,7 +52,9 @@ Here are some ideas to get you started:-->
   <a href="https://contate.me/SouzaMe" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   </p>
-  
+  <p align= "center">
+  <img src="https://komarev.com/ghpvc/?username=SouzaMe&label=Profile%20views&color=218a45&style=flat" alt="Visualizações do perfil" />
+
   
   <hr>
   <h2 align="center">Estudos &#128214;&#65039;</h2>
